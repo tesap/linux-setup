@@ -3,18 +3,11 @@ linux linux-firmware
 
 grub efibootmgr
 os-prober
-intel-ucode
 
-xf86-video-intel
-xf86-input-libinput
-
-ntfs-3g
-udisks2 udiskie
 net-tools
-openresolv
 acpi
 
-xorg xorg-xinit
+xorg xorg-xinit xbindkeys
 networkmanager
 
 jq
@@ -25,7 +18,6 @@ neovim
 htop
 ncdu
 fzf
-trash-cli
 xclip
 rsync
 
@@ -33,20 +25,13 @@ which whois sudo
 bash-completion
 zsh
 tree
-tldr
-neofetch
 exa
-
-ranger
-zoxide
-ueberzug
 
 feh
 
 alacritty
-veracrypt
 
-mpd mpc mpv
+mpv
 ncmpcpp
 ffmpeg
 
