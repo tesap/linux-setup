@@ -2,18 +2,16 @@ base base-devel
 linux linux-firmware
 
 grub efibootmgr
-os-prober
 
 net-tools
 acpi
 
-xorg xorg-xinit xbindkeys
+xorg xorg-xinit xbindkeys xorg-startx
 networkmanager
 
-jq
 git
 openssh
-vim xxd
+xxd
 neovim
 htop
 ncdu
@@ -26,6 +24,7 @@ bash-completion
 zsh
 tree
 exa
+less
 
 feh
 
@@ -36,9 +35,19 @@ ncmpcpp
 ffmpeg
 
 dunst
-cbatticon network-manager-applet
+network-manager-applet
 parcellite
 arandr
 
 dnsutils
 inetutils
+
+vifm
+lftp
+unzip
+sxiv
+keepassxc
+gimp
+redshift
+
+android-tools

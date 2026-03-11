@@ -1,2 +1,3 @@
 tlp tlpui
-cpupower cpupower-gui
+cpupower
+powertop upower

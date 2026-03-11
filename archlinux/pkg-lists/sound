@@ -1,4 +1,5 @@
-pluseaudio
-pluseaudio-ctl
+pulseaudio
+pulseaudio-alsa
+pulseaudio-ctl
 pavucontrol
 pasystray
